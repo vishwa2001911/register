@@ -1,0 +1,11 @@
+{
+  "description": "My portfolio",
+  "repo": "https://github.com/vishwa2001911/vishwa_jayasinghe", 
+  "owner": {
+    "username": "vishwa2001911",
+    "email": "vprabhath937@gmail.com"
+  },
+  "record": {
+    "CNAME": "vishwa.is-a.dev"
+  }
+}
